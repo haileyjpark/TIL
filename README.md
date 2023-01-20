@@ -41,4 +41,4 @@
 
 
 ### Web Programming
-- [브라우저 Cookie](https://github.com/haileyjpark/TIL/tree/main/WebProgramming)
+- [브라우저 Cookie](https://github.com/haileyjpark/TIL/blob/main/WebProgramming/Cookie.md)
